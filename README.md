@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @yanlinlin82
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-yanlinlin82/yanlinlin82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @yanlinlin82 (Linlin Yan) from Beijing, China
+- 👀 My interests include Bioinformatics, Machine Learning, and Software Development.
+- 🌱 Currently, I’m learning Django, TensorFlow, and PyTorch.
+- 💞️ I’m looking to collaborate on developing useful websites based on Large Language Models (LLMs).
+- 📫 You can reach me at:
+  - 📧 Email: linlin.yan (AT) bioinfo.app
+  - 💬 WeChat: yanlinlin82
+- 🌐 For more information, visit my personal website in [Chinese](https://yanlinlin.cn/) or [English](https://translate.google.com/translate?hl=en&sl=zh-CN&tl=en&u=https://yanlinlin.cn/).
